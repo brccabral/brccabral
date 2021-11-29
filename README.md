@@ -34,3 +34,9 @@ I am interested in Game development (Unity, Pygame), Data analysis (Python, Pand
   <a href="https://www.linkedin.com/in/bruno-cabral-a4aa0b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://itch.io/profile/brunorcabral" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+<div>
+  ![Snake animation](https://github.com/brccabral/brccabral/blob/output/github-contribution-grid-snake.svg)
+</div>
