@@ -38,5 +38,7 @@ I am interested in Game development (Unity, Pygame), Data analysis (Python, Pand
 ##
 
 <div>
+  
   ![Snake animation](https://github.com/brccabral/brccabral/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
