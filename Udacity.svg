@@ -422,7 +422,7 @@
 </g>
 </defs>
 <g id="surface1">
-<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,69.802856%,89.01825%);stroke-opacity:1;stroke-miterlimit:10;" d="M 29.811211 18.571887 L 761.69388 18.571887 L 761.69388 593.430232 L 29.811211 593.430232 Z M 29.811211 18.571887 " transform="matrix(0.891841,0,0,0.89098,42.831121,28.320001)"/>
+<path style="fill:white;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,69.802856%,89.01825%);stroke-opacity:1;stroke-miterlimit:10;" d="M 29.811211 18.571887 L 761.69388 18.571887 L 761.69388 593.430232 L 29.811211 593.430232 Z M 29.811211 18.571887 " transform="matrix(0.891841,0,0,0.89098,42.831121,28.320001)"/>
 <path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,69.802856%,89.01825%);stroke-opacity:1;stroke-miterlimit:10;" d="M 27.831457 20.553552 L 763.678014 20.553552 L 763.678014 591.448567 L 27.831457 591.448567 Z M 27.831457 20.553552 " transform="matrix(0.891841,0,0,0.89098,42.831121,28.320001)"/>
 <path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,69.802856%,89.01825%);stroke-opacity:1;stroke-miterlimit:10;" d="M 25.847323 22.535218 L 765.657768 22.535218 L 765.657768 589.466901 L 25.847323 589.466901 Z M 25.847323 22.535218 " transform="matrix(0.891841,0,0,0.89098,42.831121,28.320001)"/>
 <path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,69.802856%,89.01825%);stroke-opacity:1;stroke-miterlimit:10;" d="M 23.867569 24.516883 L 767.641902 24.516883 L 767.641902 587.480851 L 23.867569 587.480851 Z M 23.867569 24.516883 " transform="matrix(0.891841,0,0,0.89098,42.831121,28.320001)"/>
