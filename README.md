@@ -1,6 +1,13 @@
 ## Hi, welcome to Bruno Cabral
 
-I am interested in Game development (Unity, Pygame), Data analysis (Python, Pandas, Numpy), Android development (Java and Kotlin), Machine Learning (Python, tensorflow, scikit-learn), Augmented reality (Unity, Android), Web development (PHP, Python, Javascript), GUI apps (Python Tkinter).
+I am interested in Game development (Unity, Pygame), Data analysis (Python, Pandas, Numpy), Android development (Java and Kotlin), Machine Learning (Python, tensorflow, scikit-learn), Augmented reality (Unity, Android), Web development (PHP, Python, Javascript), GUI apps (Python Tkinter).  
+I am AWS Cloud Developer certified and Udacity Nanodegree graduate for "Machine Learning - Introduction with PyTorch".
+
+
+<div style="display: inline_block"><br>
+  <a href="https://www.credly.com/badges/d0f1b2d7-68a4-4337-9eae-4dc08e667e93/linked_in_profile"><img align="center" alt="brccabral-AWS" src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"></a>
+  <a href="https://confirm.udacity.com/P5DP6EAA"><img align="center" alt="brccabral-Udacity" src="https://github.com/brccabral/brccabral/blob/694e2ba849f203e822648697ebf0dc2ddaf79e35/Udacity.svg" width="396px" height="306px"></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/brccabral">
