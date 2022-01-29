@@ -33,6 +33,7 @@ I am AWS Cloud Developer certified and Udacity Nanodegree graduate for "Machine 
   <img align="center" alt="brccabral-MD" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img align="center" alt="brccabral-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="brccabral-SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="brccabral-SQLITE" src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge">
 </div>
 
 ##
