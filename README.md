@@ -5,7 +5,7 @@ I am AWS Cloud Developer certified and Udacity Nanodegree graduate for "Machine 
 
 
 <div style="display: inline_block"><br>
-  <a href="https://www.credly.com/badges/d0f1b2d7-68a4-4337-9eae-4dc08e667e93/linked_in_profile"><img align="center" alt="brccabral-AWS" src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"></a>
+  <a href="https://www.credly.com/badges/d0f1b2d7-68a4-4337-9eae-4dc08e667e93/linked_in_profile"><img align="center" alt="brccabral-AWS" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"></a>
   <a href="https://confirm.udacity.com/P5DP6EAA"><img align="center" alt="brccabral-Udacity" src="https://github.com/brccabral/brccabral/blob/694e2ba849f203e822648697ebf0dc2ddaf79e35/Udacity.svg" width="396px" height="306px"></a>
 </div>
 
