@@ -41,7 +41,6 @@ I have a YouTube channel, <a href="https://www.youtube.com/@bcodetube"><img alt=
 ##
 
 <div>
-  <a href="https://www.twitter.com/brunorcabral" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-cabral-a4aa0b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://itch.io/profile/brunorcabral" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
 </div>
