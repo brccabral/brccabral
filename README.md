@@ -3,7 +3,7 @@
 I am Electrical Engineer, have been working in Telecommunications (cell phone carriers) for a while. I am also SysAdmin and Software Developer.  
 I am interested in Game development (Unity, Pygame, C++), Data analysis (Python, C++, Pandas, Numpy), Android development (Java and Kotlin), Machine Learning (Python, C++, PyTorch, tensorflow, scikit-learn), Augmented reality (Unity, Android), Web development (PHP, Python, Javascript), GUI apps (Python, C++).  
 I am AWS Cloud Developer certified and Udacity Nanodegree graduate for "Machine Learning - Introduction with PyTorch".  
-I have a YouTube channel, <a><img alt="bcodetube YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/bcodetube"> @bcodetube</a>  
+I have a YouTube channel, <a><img alt="bcodetube YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/@bcodetube"> @bcodetube</a>  
 
 
 <div style="display: inline_block"><br>
