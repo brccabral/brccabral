@@ -10,6 +10,7 @@ jobs:
     name: update snake animation
     runs-on: ubuntu-latest
     steps:
+
       # Snake Animation
       - uses: Platane/snk@v3
         with:
@@ -17,3 +18,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      # output file
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
