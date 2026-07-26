@@ -12,9 +12,10 @@ I have a YouTube channel, <a href="https://www.youtube.com/@bcodetube"><img alt=
 </div>
 
 <div align="center">
-  <a href="https://github.com/brccabral">
+  <a href="https://github.com/brccabral" style="text-decoration: none">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=brccabral&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true&theme=onedark"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=brccabral&layout=donut&langs_count=7&disable_animations=true&theme=onedark"/>
+  </a>
 </div>
 
 ##
